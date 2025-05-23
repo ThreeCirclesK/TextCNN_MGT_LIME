@@ -1,0 +1,12 @@
+
+=== Global Evaluation Across 44 Bugs, (1, 1), 1 ===
+Acc@1: 0.2045
+Acc@5: 0.2273
+MAP:         0.1977
+MRR:         0.2382
+
+=== Global Evaluation Across 44 Bugs, (1, 2), 2 ===
+Acc@1: 0.2045
+Acc@5: 0.2273
+MAP:         0.1977
+MRR:         0.2382
