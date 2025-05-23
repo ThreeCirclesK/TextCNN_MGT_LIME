@@ -1,5 +1,4 @@
 
-```markdown
 # Bug Localization with DualTextCNN
 
 This project implements a deep learning-based bug localization system using a Dual TextCNN model. It takes natural language bug reports and ranks source files based on their likelihood of being related to the bug.
@@ -126,5 +125,4 @@ The `DualTextCNN` processes bug reports and source files in parallel using separ
 
 This project is distributed under the MIT License.
 
-```
 
